@@ -1,2 +1,26 @@
-
-
+Getting started with the
+Chrome Browser Cloud
+Management Postman
+API Integration
+Last updated Feb 2022
+Decide on which Authorization method to use 2
+Decide which APIs scopes (functionality) you want to use 2
+Creating the API account in the Admin Console 3
+Creating your project in console.cloud.google.com 4
+Option 1: Authorize with Consent method 5
+Option 2: Authorize with impersonation (service account) 8
+Setting up Postman Integration 11
+Verifying the connection to Chrome Browser Cloud Management 18
+This document will guide you through the process of setting up the API integration with the Postman
+API Platform. By using Postman you can accelerate the design, mocking, and testing of your scripts to
+make the process easier than ever to use Chrome Browser Cloud Management APIs. By using Cloud
+management APIs, you can push and pull data into the console at scale and enhance the level of
+reporting that you can gather from your enrolled browsers. This document assumes the following:
+● Have access to the Google admin console
+● A super admin account for the setup
+● At least one (or more) device(s) enrolled into Chrome Browser Cloud Management for testing
+Here are some useful links:
+Chrome Browser Enterprise Github
+Readme file for the API
+Google Cloud Platform Console
+Postman API Platform
